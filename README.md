@@ -12,4 +12,4 @@ The data is from a [Kaggle dataset](https://www.kaggle.com/datatattle/covid-19-n
 
 
 
-![Image](https://github.com/[ckelaid]/[Covid-19-Tweet-BERT-Sentiment-Analysis]/edit/[main]/Avg_tweet_length_per_class.png?raw=true)
+![Image](https://github.com/[ckelaid]/[Covid-19-Tweet-BERT-Sentiment-Analysis]/blob/[main]/Avg_tweet_length_per_class.png?raw=true)
