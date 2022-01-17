@@ -29,7 +29,7 @@ It was comprised of two sets, one for training and one for testing, each with th
 
 The training set had **41157** tweets and the testing set had **3798**.
 
-## Project
+## Project Overview
 To begin, due to the raw nature of the tweets, some data cleaning was required, such as removing emojis, hashtags, mentions, etc.
 Additionally, we checked for non-english tweets using **SpaCy** and dropped any that arose.
 
