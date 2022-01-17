@@ -51,7 +51,8 @@ Instead of keeping these 5 classes, I limited myself to thee classes and numeriz
 
 ![Image](sent_dist_2.png)
 
-As per the above plot however, the classes were really unbalanced so I performed Random Over Sampling to balance the classes:
+As per the above plot however, the classes were really unbalanced so I performed Random Over Sampling to balance them:
+
 ![Image](sent_dist_3.png)
 
 
