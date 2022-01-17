@@ -2,7 +2,7 @@
 
 
 ### Quick overview:
-Training &amp; fine-tuning BERT for Covid-19 tweet sentiment analysis, using PyTorch.
+Training &amp; fine-tuning BERT for Covid-19 tweet sentiment analysis in Python, using PyTorch.
 
 Due to a lack of local GPU, for accelerated training purposes, this project was done in Google Colab using access to the colab GPUs.
 
