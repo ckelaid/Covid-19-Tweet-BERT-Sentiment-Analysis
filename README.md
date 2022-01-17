@@ -6,7 +6,7 @@ Training &amp; fine-tuning BERT for Covid-19 tweet sentiment analysis, using PyT
 
 Due to a lack of local GPU, for accelerated training purposes, this project was done in Google Colab using access to the colab GPUs.
 
-Full project code is attached
+[Full project code](https://github.com/ckelaid/Covid-19-Tweet-BERT-Sentiment-Analysis/blob/main/Covid_19_Tweet_BERT_Sentiment_Analysis.ipynb)
 
 ##### BERT model & tokenizer used:
 - BertTokenizer ('bert-base-uncased')
