@@ -56,12 +56,16 @@ As per the above plot however, the classes were really unbalanced so I performed
 
 
 ### Results
+Here are the results after training the BERT model on 90% on the training set holding 10% out for validation purposes.
 
 #### Training summary:
 
 ![Image](training_summary.png)
 
 ![Image](train_vs_valid_loss.png) 
+
+
+This is how the model did in predicting sentiment on the test set.
 
 #### Test Set Evaluation:
 ![Image](conf_matrix.png)
