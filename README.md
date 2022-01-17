@@ -13,6 +13,7 @@ Due to a lack of local GPU, for accelerated training purposes, this project was 
 - BertForSequenceClassification
 
 ##### Training attributes:
+- batch size of **16**
 - **2** epochs
 - learning rate of **2e-5**
 - epsilon value of **1e-8**
