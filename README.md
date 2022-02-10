@@ -13,10 +13,10 @@ Due to a lack of local GPU, for accelerated training purposes, this project was 
 - BertForSequenceClassification
 
 ##### Training attributes:
-- batch size of **16**
-- **2** epochs
-- learning rate of **2e-5**
-- epsilon value of **1e-8**
+- batch size: **16**
+- epochs: **2**
+- learning rate: **2e-5**
+- epsilon value: **1e-8**
 
 ### About the data:
 The data was taken from a [Kaggle dataset](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification).
